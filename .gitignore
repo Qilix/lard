@@ -1,0 +1,12 @@
+/vendor/
+*.ipr
+*.iws
+*.iml
+.idea
+composer.lock
+/dataSources/
+.ideaDataSources/
+.DS_Store
+.env
+.phpunit.result.cache
+/build/
